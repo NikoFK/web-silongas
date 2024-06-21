@@ -82,6 +82,7 @@
             <h4>Link Berguna</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Beranda</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Profil Desa Ngingas</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Tentang Kami</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Layanan</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Syarat Layanan</a></li>
